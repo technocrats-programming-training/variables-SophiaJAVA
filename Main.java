@@ -14,7 +14,7 @@ public class Main {
         // In this print statement you can use the variables named firstName, lastName and age. To join strings together, you can use the + sign, like "Hello, I am " + firstName + " " + lastName ... (java Main.java _____ _____ ___)
       
       // Print out the following string: "Hello, I am <firstName> <lastName>, and I am <age> years old"
-      System.out.println("Hello, I am "+ firstName + " " + lastName + ", I am " + age + " years old");
+      System.out.println("Hello, I am "+ firstName + " " + lastName + ", and I am " + age + " years old");
       
         // you are going to need another + after lastName, and age should not be in quotes because it is a variable, not a string literal
 
