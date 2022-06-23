@@ -23,8 +23,7 @@ public class Main {
       System.out.println(age %2 == 0);
       
         // Print out whether firstName equals lastName
-      System.out.println(firstName == lastName);
-      
+      System.out.println(lastName.equals(firstName));
         // Print out whether age is greater than 0
         System.out.println(age > 0);
       
